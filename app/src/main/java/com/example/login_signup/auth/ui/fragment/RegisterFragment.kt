@@ -1,4 +1,4 @@
-package com.example.login_signup.auth
+package com.example.login_signup.auth.ui.fragment
 
 import android.os.Bundle
 import android.view.LayoutInflater

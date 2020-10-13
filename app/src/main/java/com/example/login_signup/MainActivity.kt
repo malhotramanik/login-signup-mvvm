@@ -3,7 +3,7 @@ package com.example.login_signup
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.example.login_signup.auth.AuthActivity
+import com.example.login_signup.auth.ui.activity.AuthActivity
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

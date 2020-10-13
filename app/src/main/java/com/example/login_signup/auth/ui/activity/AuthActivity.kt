@@ -1,4 +1,4 @@
-package com.example.login_signup.auth
+package com.example.login_signup.auth.ui.activity
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

@@ -1,4 +1,4 @@
-package com.example.login_signup.network
+package com.example.login_signup.base.data.network
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

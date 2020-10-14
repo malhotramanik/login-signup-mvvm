@@ -1,6 +1,6 @@
-package com.example.login_signup.base.repository
+package com.example.login_signup.base.data.repository
 
-import com.example.login_signup.network.Resource
+import com.example.login_signup.base.data.network.Resource
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import retrofit2.HttpException

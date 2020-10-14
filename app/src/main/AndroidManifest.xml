@@ -12,7 +12,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.LoginSignUp">
-        <activity android:name=".auth.ui.activity.AuthActivity"></activity>
+        <activity android:name="com.example.login_signup.auth.ui.activity.AuthActivity"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -4,7 +4,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import com.example.login_signup.auth.data.repository.AuthRepository
 import com.example.login_signup.auth.ui.viewmodel.AuthViewModel
-import com.example.login_signup.base.repository.BaseRepository
+import com.example.login_signup.base.data.repository.BaseRepository
 
 class ViewModelFactory(private val repository: BaseRepository) : ViewModelProvider.NewInstanceFactory() {
     override fun <T : ViewModel?> create(modelClass: Class<T>): T {
